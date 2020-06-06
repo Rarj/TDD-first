@@ -202,3 +202,5 @@ fabric.properties
 !/gradle/wrapper/gradle-wrapper.jar
 
 # End of ignore files
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/codeStyles/Project.xml
